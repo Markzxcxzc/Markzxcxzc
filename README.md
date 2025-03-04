@@ -11,7 +11,8 @@ I am Jielo Mark Amis, a passionate coder with expertise in database management. 
   2022-Present
 
 ## Skills set
-- *Programming*
+- **Programming**
+
   -Java
   -C++
 
