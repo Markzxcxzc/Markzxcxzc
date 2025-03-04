@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jielo Mark Gaspar Amis
 
-<!--
-**Markzxcxzc/Markzxcxzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Jielo Mark Amis, a passionate coder with expertise in database management. I love tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology  program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- *BS Information Technology*
+  ICCT Colleges
+  2022-Present
+
+## Skills set
+- *Programming*
+  -Java
+  -C++
+
+
+
+
+
+
+
+
+
+## Connect With Me
+jieamis8@gmail.com
