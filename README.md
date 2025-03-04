@@ -8,6 +8,7 @@ I am Jielo Mark Amis, a passionate coder with expertise in database management. 
 
 - *BS Information Technology*
   ICCT Colleges
+  
   2022-Present
 
 ## Skills set
